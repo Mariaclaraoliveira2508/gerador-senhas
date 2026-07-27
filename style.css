@@ -2,12 +2,12 @@
 
 :root {
     --branco: white;
-    --cor-de-fundo: #260068;
-    --fundo-senha: #7443dd3e;
-    --fundo-senha: #26006838;
-    --fundo-texto: #7343DD;
+    --cor-de-fundo: #5a0303;
+    --fundo-senha: #5a0303;
+    --fundo-senha: #041f3a;
+    --fundo-texto: #5a0303;
     --fundo-barra:#808080;
-    --borda: #FDC036;
+    --borda: #041f3a;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -153,6 +153,25 @@ label{
 
 .forte{
     background-color: #00FF85;
+    width: 100%;
+}
+.forca{
+    height: 30px;
+    position: relative;
+    bottom: 30px;
+}
+.forca{
+    background-color: red;
+    width: 25%;
+}
+
+.media{
+  background-color: yellow;
+    width: 50%;
+}
+
+.forte{
+    background-color: green;
     width: 100%;
 }
 
